@@ -1,4 +1,6 @@
+next-version: 3.2
 assembly-versioning-scheme: MajorMinor
+tag-prefix: v
 branches:
   master:
     mode: ContinuousDelivery
